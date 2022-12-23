@@ -1,0 +1,8 @@
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\bin\Debug\ObjectTask.exe.config
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\bin\Debug\ObjectTask.exe
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\bin\Debug\ObjectTask.pdb
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\obj\Debug\ObjectTask.csproj.AssemblyReference.cache
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\obj\Debug\ObjectTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\obj\Debug\ObjectTask.csproj.CoreCompileInputs.cache
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\obj\Debug\ObjectTask.exe
+C:\Users\nidal\source\repos\ObjectTask\ObjectTask\obj\Debug\ObjectTask.pdb
